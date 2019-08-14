@@ -11,8 +11,9 @@ En estos casos resultaría útil el patrón Bridge ya que 'desacopla una abstrac
 (un método abstracto) al permitir indicar (durante la ejecución del programa) a una clase qué 'implementación' 
 del mismo debe utilizar (qué acciones debe realizar).
 
-##Sin el Patrón de Diseño
+
+## Sin el Patrón de Diseño
 ![](https://www.geeksforgeeks.org/wp-content/uploads/im2.png)
 
-##Con el Patrón de Diseño
+## Con el Patrón de Diseño
 ![](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/BridgeDesign3.png)
