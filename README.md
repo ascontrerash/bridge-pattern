@@ -10,3 +10,6 @@ implementarlo de forma que realizase acciones diferentes dependiendo de determin
 En estos casos resultaría útil el patrón Bridge ya que 'desacopla una abstracción' 
 (un método abstracto) al permitir indicar (durante la ejecución del programa) a una clase qué 'implementación' 
 del mismo debe utilizar (qué acciones debe realizar).
+
+![](https://www.geeksforgeeks.org/wp-content/uploads/im2.png)
+![](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/BridgeDesign3.png)
